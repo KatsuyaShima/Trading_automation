@@ -5,8 +5,8 @@
 ※セキュリティの観点から、私個人のID・PASSWORDは伏せています。ご自身のものをお使いください。
 
 ## Dependency
-使用言語 Python
-使用ライブラリ
+使用言語 Python  
+使用ライブラリ  
 yahoo-finance-api2 == 0.0.12  
 pandas == 1.3.4  
 numpy == 1.21.4  
