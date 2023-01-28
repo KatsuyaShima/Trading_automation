@@ -41,7 +41,7 @@ def start_rss():
     py.click(960,540)
     #画面中央をクリック 画面中央なのか確認をお願いします。
     time.sleep(1)
-    py.typewrite(r"Rakuten_Robotto")  #パスワード　ログインIDは記録させておくため入力しない
+    py.typewrite(r"PASSWORD")  #パスワード　ログインIDは記録させておくため入力しない
     time.sleep(2)
     py.press("Enter")
     time.sleep(60)
