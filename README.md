@@ -27,7 +27,7 @@ sys,math,time,datetime,os,re,subprocess,random
 <インストールするもの>  
 マーケットスピード II RSS 
 Excel  
-<OS>  
+<使用するOS>  
 Windows10 (MacOSは不可)  
 
 ## Usage
