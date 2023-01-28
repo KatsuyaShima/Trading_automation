@@ -26,7 +26,7 @@ sys,math,time,datetime,os,re,subprocess,random
 楽天証券口座の取得  
   
 <インストールするもの>  
-マーケットスピード II RSS 
+マーケットスピード II RSS  
 Excel  
   
 <使用するOS>  
