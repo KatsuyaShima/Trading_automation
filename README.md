@@ -18,7 +18,7 @@ xlwings == 0.28.1
 PyAutoGUI == 0.9.53  
 jpholiday == 0.1.8  
 
-標準ライブラリ
+標準ライブラリ  
 sys,math,time,datetime,os,re,subprocess,random
 
 ## Setup
