@@ -6,6 +6,7 @@
 
 ## Dependency
 使用言語 Python  
+  
 使用ライブラリ  
 yahoo-finance-api2 == 0.0.12  
 pandas == 1.3.4  
@@ -17,16 +18,18 @@ webdriver-manager == 3.8.5
 xlwings == 0.28.1  
 PyAutoGUI == 0.9.53  
 jpholiday == 0.1.8  
-
+  
 標準ライブラリ  
 sys,math,time,datetime,os,re,subprocess,random
 
 ## Setup
 <必要な手続き>  
 楽天証券口座の取得  
+  
 <インストールするもの>  
 マーケットスピード II RSS 
 Excel  
+  
 <使用するOS>  
 Windows10 (MacOSは不可)  
 
