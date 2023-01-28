@@ -6,16 +6,16 @@
 ## Dependency
 使用言語 Python
 使用ライブラリ
-yahoo-finance-api2 == 0.0.12
-pandas == 1.3.4
-numpy == 1.21.4
-requests == 2.26.0
-selenium == 4.5.0
-beautifulsoup4 == 4.10.0
-webdriver-manager == 3.8.5
-xlwings == 0.28.1
-PyAutoGUI == 0.9.53
-jpholiday == 0.1.8
+yahoo-finance-api2 == 0.0.12  
+pandas == 1.3.4  
+numpy == 1.21.4  
+requests == 2.26.0  
+selenium == 4.5.0  
+beautifulsoup4 == 4.10.0  
+webdriver-manager == 3.8.5  
+xlwings == 0.28.1  
+PyAutoGUI == 0.9.53  
+jpholiday == 0.1.8  
 
 標準ライブラリ
 sys,math,time,datetime,os,re,subprocess,random
