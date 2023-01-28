@@ -232,9 +232,9 @@ def shikihou(back_dates):
 
     driver.get_cookies()
     elem_id = driver.find_element(By.XPATH,"/html/body/div[2]/div/div[2]/div[1]/div[1]/div/form/div/div[1]/input[1]")
-    elem_id.send_keys("FHLL6353")
+    elem_id.send_keys("ID")
     elem_pass = driver.find_element(By.XPATH,"/html/body/div[2]/div/div[2]/div[1]/div[1]/div/form/div/div[1]/input[2]")
-    elem_pass.send_keys("Rakuten_Robotto")
+    elem_pass.send_keys("PASSWORD")
     elem_login_btn = driver.find_element(By.XPATH,"/html/body/div[2]/div/div[2]/div[1]/div[1]/div/form/ul/li[1]/button")
     elem_login_btn.click()
 
